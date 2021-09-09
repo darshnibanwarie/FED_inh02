@@ -22,7 +22,7 @@ Darshni Banwarie (vervangen door jouw naam)
 blauwe piste 
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,7 +36,7 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.ign.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
