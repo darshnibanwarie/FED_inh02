@@ -22,7 +22,7 @@ Darshni Banwarie (vervangen door jouw naam)
 blauwe piste 
 
 #### Je focus:
-responsive (kies uit responsive óf surface plane)
+surface plane (kies uit responsive óf surface plane)
  
 </details>
 
