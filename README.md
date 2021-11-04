@@ -22,7 +22,7 @@ Darshni Banwarie
 blauwe piste 
 
 #### Je focus:
-surface plane (kies uit responsive óf surface plane)
+Responsive
  
 </details>
 
@@ -39,12 +39,12 @@ surface plane (kies uit responsive óf surface plane)
 https://www.ign.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home page  
+<img src="images/homepagina_ign.png" width="375px" alt="dit is de home pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Wiki page  
+<img src="images/wikipagina_ign.png" width="375px" alt="dit is de wiki pagina met weetjes over games/films">
  
 </details>
 
@@ -233,8 +233,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://css-tricks.com/practical-css-scroll-snapping/ -> featured wiki pages carousel pagina 2 
+2. https://codepen.io/shooft/pen/vYZKQPX -> som 13 en elke carousel in mijn website
+3. https://stackoverflow.com/questions/17514234/make-list-items-get-next-to-each-other/17514437 -> footer styling
+4. https://codepen.io/shooft/pen/zYzEPgv -> menuknop 
 
 </details>
